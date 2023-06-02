@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I am currently working with @100mslive on web sdk team.
-- I have been primarily working on the core sdk and sample for @100mslive.
+- I am currently working with [100mslive](https://github.com/100mslive) on web sdk team.
+- I have been primarily working on the core sdk and sample for [100mslive](https://github.com/100mslive)
 - Have made minor commits to some open source projects earlier.
 - Looking forward to restart on open source contributions
 - I primarily work in Javascript, Typescript and React.
