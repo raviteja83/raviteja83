@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I am currently working with @100mslive on web sdk team.
+- I have been primarily working on the core sdk and sample for @100mslive.
+- Have made minor commits to some open source projects earlier.
+- Looking forward to restart on open source contributions
+- I primarily work in Javascript, Typescript and React.
 <!--
 **raviteja83/raviteja83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
