@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I am currently working with [100mslive](https://github.com/100mslive) on web sdk team.
-- I have been primarily working on the core sdk and sample for [100mslive](https://github.com/100mslive)
-- Have made minor commits to some open source projects earlier.
+- I have been primarily working on the core [sdk](https://www.npmjs.com/package/@100mslive/hms-video-store) and sample [app](https://github.com/100mslive/100ms-web) for [100mslive](https://github.com/100mslive)
+- Have made minor commits to some open source projects - [recharts](https://github.com/recharts/recharts), [EventEmitter2](https://github.com/EventEmitter2/EventEmitter2)
 - Looking forward to restart on open source contributions
 - I primarily work in Javascript, Typescript and React.
 <!--
